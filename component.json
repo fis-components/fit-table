@@ -1,7 +1,7 @@
 {
     "name": "fit-table",
     "description": "表格",
-    "repos": "https://github.com/2betop/placeholder.git",
+    "repos": "https://github.com/tb-component/pc-table.git",
     "main": "lib/index.js",
     "tag": "master",
     "reposType": "npm",
@@ -19,5 +19,5 @@
         "fit-modal": "^1.1.10",
         "fit-timepicker": "^0.2.18"
     },
-    "version": "1.1.42"
+    "version": "1.1.43"
 }
