@@ -6,7 +6,18 @@
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "fit-style": "^1.1.10"
+        "classnames": "^2.2.1",
+        "jquery": "^2.1.4",
+        "lodash": "^3.10.1",
+        "react": "^0.14.3",
+        "fit-button": "^1.2.13",
+        "fit-checkbox": "^1.1.12",
+        "fit-input": "^1.1.13",
+        "fit-pagination": "^1.1.10",
+        "fit-radio": "^1.1.13",
+        "fit-style": "^1.1.10",
+        "fit-modal": "^1.1.10",
+        "fit-timepicker": "^0.2.17"
     },
-    "version": "1.1.39"
+    "version": "1.1.40"
 }
