@@ -29,7 +29,9 @@
 .lib-pc-table-lib-table .table > thead > tr > th, .lib-pc-table-lib-table .table > tbody > tr > td, .lib-pc-table-lib-table .table > tfoot > tr > td {
   padding: 6px 15px;
   border-top: 1px solid #eaeff0;
-  vertical-align: middle; }
+  vertical-align: middle;
+  max-width: 250px;
+  word-break: break-all; }
 
 .lib-pc-table-lib-table .table > thead > tr > th {
   padding: 10px 15px !important;
